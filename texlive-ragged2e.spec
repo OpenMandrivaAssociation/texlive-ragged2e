@@ -1,6 +1,6 @@
 Name:		texlive-ragged2e
-Version:	65008
-Release:	2
+Version:	67441
+Release:	1
 Summary:	Alternative versions of "ragged"-type commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ragged2e
