@@ -3,7 +3,7 @@ Version:	67441
 Release:	1
 Summary:	Alternative versions of "ragged"-type commands
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ragged2e
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ragged2e
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ragged2e.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ragged2e.doc.r%{version}.tar.xz
